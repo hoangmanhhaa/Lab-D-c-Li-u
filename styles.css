@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    background: #007BFF;
+    margin: 0;
+}
+nav ul li {
+    display: inline;
+    padding: 10px 20px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
